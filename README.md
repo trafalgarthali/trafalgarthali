@@ -1,4 +1,4 @@
-### bom dia, boa tarde ou boa noite
+### eu amo meu namorado
 
 <!--
 **trafalgarthali/trafalgarthali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
